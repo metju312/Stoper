@@ -15,7 +15,7 @@ public class TimerController {
 
   static SimpleDateFormat sdf;
   static Long counterMS = 0L;
-  static long period = 1;
+  static long period = 23;
 
   private static String result = "00:00:00.000";
 
